@@ -3,4 +3,4 @@
 # car-brans-models
 Avtomobil marka və modelleri. Araba maraka ve modelleri.
 
-> "[kubpro.com](http://kubpro.com/)" tərəfindən hazırlanmıştır. "[turbo.az](https://turbo.az)" götürülmüştür.
+> "[kubpro.com](http://kubpro.com/)" tərəfindən hazırlanmıştır. "[turbo.az](https://turbo.az)" sayıtının verilərindən götürülmüştür.
